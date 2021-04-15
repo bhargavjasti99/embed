@@ -1,0 +1,501 @@
+Species,Destination,Port_of_Loading,Unit,Quantity,Value(INR),Cost_per_Unit(INR)
+Bronze Featherback,Canada,Cochin,PCS,30,6158,878
+Mrigal,Vietnam,Chennai,PCS,70,21553,804
+Mozambique Tilapia,Vietnam,Cochin,PCS,40,7697,128
+Bata,Vietnam,Bombay,PAC,10,1924,419
+Golden Mahseer,Singapore,Chennai,PAC,200,4747,343
+Rainbow Trout,Singapore,Cochin,PCS,400,1504,750
+Silver Carp,United Arab Emirates,Cochin,PCS,7295,2028,852
+Striped Murrel,Saudi Arabia,Bombay,KGS,1739,3334,869
+Freshwater Shark,United Kingdom,Bombay,PAC,3360,2699,871
+Grey Mullet,Singapore,Bombay,PAC,30,2898,323
+Chital,Canada,Cochin,PCS,42,4080,410
+Freshwater Shark,Kuwait,Ahmedabad,KGS,60,4755,56
+Pabda Catfish,United Kingdom,Cochin,KGS,60,4474,794
+Striped Catfish,Hong Kong,Chennai,KGS,120,3928,918
+Greasy Grouper,United Arab Emirates,Ahmedabad,KGS,60,2023,375
+Calbasu,Qatar,Chennai,KGS,60,4064,693
+Ticto Barb,Singapore,Chennai,PCS,45,4902,562
+Giant River-Catfish,United Arab Emirates,Bombay,PAC,9,4729,894
+Spotted Murrel,Chile,Kolkata,PCS,19146,920,350
+Tiger Bass,Vietnam,Bombay,PAC,5680,1673,405
+Climbing Perch,Canada,Bombay,PAC,150,2598,481
+Giant River-Catfish,Saudi Arabia,Chennai,PAC,400,4283,943
+Brook Trout,Qatar,Cochin,PAC,200,3751,685
+Spotted Murrel,United Arab Emirates,Chennai,PCS,550,2705,536
+Brook Trout,Saudi Arabia,Kolkata,KGS,710,2112,145
+Grey Mullet,Hong Kong,Kolkata,PAC,350,3888,382
+Freshwater Shark,Chile,Ahmedabad,PCS,450,2526,214
+Walking Catfish,Singapore,Ahmedabad,PAC,30,1188,316
+Striped Murrel,Vietnam,Cochin,PAC,70,2245,868
+Chital,Saudi Arabia,Cochin,PAC,40,1158,897
+Bronze Featherback,Qatar,Ahmedabad,PAC,10,1083,887
+Flower Murrel,Hong Kong,Ahmedabad,KGS,200,1706,954
+Mola Carplet,United Kingdom,Cochin,PCS,400,3809,969
+Ticto Barb,Vietnam,Kolkata,PAC,7295,4364,781
+Flower Murrel,Singapore,Chennai,PCS,1739,509,342
+Pabda Catfish,Saudi Arabia,Cochin,PAC,3360,245,34
+Golden Mahseer,Saudi Arabia,Bombay,KGS,30,2855,138
+Nile Tilapia,Saudi Arabia,Kolkata,PAC,42,3236,480
+Amur Common Carp,Vietnam,Chennai,PCS,60,2350,699
+Calbasu,United Kingdom,Cochin,PCS,60,1120,594
+Catla,Kuwait,Chennai,PCS,120,2313,26
+Goldspot Mullet,Singapore,Cochin,PAC,60,595,927
+Amur Common Carp,Canada,Kolkata,PAC,60,2506,680
+Tor Mahseer,United Kingdom,Chennai,KGS,45,652,130
+Bata,United Kingdom,Kolkata,PAC,9,4373,456
+Giant River-Catfish,United Kingdom,Chennai,KGS,19146,1972,652
+Chital,Canada,Chennai,PCS,5680,1706,503
+Nile Tilapia,Saudi Arabia,Ahmedabad,KGS,150,885,74
+Mountain Trout,United Arab Emirates,Bombay,KGS,400,459,94
+Mrigal,Singapore,Kolkata,PAC,200,1572,827
+Climbing Perch,Qatar,Cochin,KGS,550,435,620
+Rohu,Canada,Kolkata,PCS,710,4611,417
+Grey Mullet,Singapore,Cochin,PAC,350,3110,501
+Orange-spotted Grouper,Hong Kong,Cochin,PAC,450,3035,647
+Mozambique Tilapia,United Arab Emirates,Bombay,KGS,30,2325,950
+Walking Catfish,Canada,Ahmedabad,PCS,70,2771,402
+Catla,Canada,Ahmedabad,PCS,40,3135,113
+Chital,Singapore,Ahmedabad,PAC,10,2731,470
+Rohu,Hong Kong,Kolkata,PCS,200,2212,851
+Nile Tilapia,Vietnam,Kolkata,PCS,400,2217,814
+Spotted Murrel,Vietnam,Cochin,PCS,7295,1926,935
+GIFT Strain,Canada,Kolkata,PAC,1739,3551,486
+Mountain Trout,Singapore,Ahmedabad,KGS,3360,1260,517
+Pearlspot,Vietnam,Chennai,PCS,30,655,214
+Climbing Perch,Singapore,Chennai,PCS,42,4491,298
+Calbasu,Vietnam,Cochin,PCS,60,4739,810
+Common Snow Trout,United Kingdom,Kolkata,PAC,60,318,615
+Amur Common Carp,Saudi Arabia,Kolkata,PAC,120,3475,424
+Mrigal,Vietnam,Ahmedabad,PCS,60,563,250
+Greasy Grouper,Qatar,Kolkata,KGS,60,2183,212
+GIFT Strain,Chile,Kolkata,KGS,45,2123,975
+Grey Mullet,Kuwait,Kolkata,KGS,9,3503,364
+Red Tilapia,Kuwait,Chennai,KGS,19146,1198,975
+Silver Hatchet Chela,Qatar,Cochin,PAC,5680,3905,169
+GIFT Strain,Chile,Bombay,PAC,150,960,480
+Spotted Murrel,Hong Kong,Bombay,PCS,400,1289,268
+Mozambique Tilapia,Singapore,Kolkata,KGS,200,3385,830
+Ticto Barb,Canada,Ahmedabad,KGS,550,3390,52
+Gheur,Qatar,Cochin,KGS,710,2068,273
+Mrigal,United Kingdom,Cochin,PCS,350,1699,612
+Common Carp,Canada,Ahmedabad,KGS,450,3961,627
+Asian Seabass,Saudi Arabia,Ahmedabad,PAC,30,244,824
+Tor Mahseer,Canada,Cochin,PCS,70,2960,932
+Mola Carplet,Kuwait,Kolkata,PAC,40,3966,647
+Dwarf Murrel,Singapore,Cochin,PCS,10,2877,919
+Golden Mahseer,Qatar,Kolkata,PCS,200,2350,834
+Bata,Chile,Cochin,PAC,400,4517,400
+Gheur,Qatar,Bombay,PCS,7295,536,92
+Deccan Mahseer,United Arab Emirates,Chennai,PCS,1739,2451,653
+Reba,Qatar,Cochin,PCS,3360,4896,291
+Brook Trout,Saudi Arabia,Bombay,PAC,30,2004,688
+Ticto Barb,Saudi Arabia,Bombay,PCS,42,2577,633
+Grey Mullet,United Kingdom,Kolkata,PCS,60,4063,273
+Striped Catfish,Qatar,Ahmedabad,KGS,60,4586,929
+Brown Trout,United Arab Emirates,Chennai,PCS,120,3592,943
+Pearlspot,United Arab Emirates,Cochin,PCS,60,1259,251
+Goldspot Mullet,Qatar,Cochin,KGS,60,4270,371
+Nile Tilapia,Saudi Arabia,Chennai,KGS,45,187,73
+Rohu,Canada,Cochin,PAC,9,3632,947
+Tor Mahseer,Kuwait,Bombay,PAC,19146,3886,622
+Reba,Chile,Ahmedabad,KGS,5680,3885,569
+Spotted Murrel,United Arab Emirates,Bombay,PAC,150,4821,147
+Ticto Barb,United Kingdom,Kolkata,PAC,400,4857,389
+Freshwater Shark,Qatar,Cochin,PCS,200,1631,535
+Pengba,Vietnam,Ahmedabad,PCS,550,1027,478
+Pearlspot,Chile,Ahmedabad,KGS,710,2565,473
+Giant River-Catfish,Kuwait,Kolkata,PCS,350,1880,515
+Greasy Grouper,Qatar,Chennai,PAC,450,3144,578
+Grey Mullet,Qatar,Cochin,KGS,30,4347,916
+Fringe-lipped Carp,Hong Kong,Chennai,PCS,70,3772,274
+Pearlspot,Singapore,Ahmedabad,KGS,40,4147,155
+Common Snow Trout,Qatar,Ahmedabad,PCS,10,808,963
+Brown Trout,Hong Kong,Cochin,PCS,200,4486,471
+Pearlspot,United Arab Emirates,Kolkata,KGS,400,2006,287
+Rainbow Trout,Kuwait,Kolkata,PAC,7295,1103,583
+Brook Trout,Saudi Arabia,Ahmedabad,PCS,1739,332,583
+Common Carp,Hong Kong,Ahmedabad,PAC,3360,4957,189
+Grass Carp,Vietnam,Cochin,PCS,30,712,197
+Dwarf Murrel,Vietnam,Cochin,KGS,42,2562,958
+Rohu,Kuwait,Cochin,PCS,60,3959,622
+Common Carp,Hong Kong,Chennai,PCS,60,4974,646
+Deccan Mahseer,Hong Kong,Cochin,KGS,120,4506,554
+Goldspot Mullet,Kuwait,Cochin,PCS,60,132,470
+Greasy Grouper,Chile,Bombay,PAC,60,4129,327
+Mountain Trout,Kuwait,Cochin,KGS,45,2290,523
+Gheur,United Arab Emirates,Kolkata,PAC,9,4552,536
+Stinging Catfish,United Kingdom,Bombay,KGS,19146,1794,208
+Flower Murrel,Kuwait,Ahmedabad,PAC,5680,2071,391
+Stinging Catfish,Saudi Arabia,Chennai,PCS,150,3865,146
+Chocolate Mahseer,Saudi Arabia,Cochin,PCS,400,3060,445
+Ticto Barb,Hong Kong,Chennai,PCS,200,1334,102
+Pengba,Saudi Arabia,Chennai,PCS,550,372,72
+Striped Murrel,Saudi Arabia,Bombay,KGS,710,1543,143
+Nile Tilapia,Hong Kong,Kolkata,KGS,350,1441,771
+Reba,Singapore,Kolkata,PCS,450,3562,507
+Striped Murrel,Singapore,Bombay,KGS,30,3570,681
+Striped Catfish,Qatar,Cochin,KGS,70,3415,155
+Common Snow Trout,Vietnam,Bombay,KGS,40,4337,702
+Brown Trout,Hong Kong,Cochin,KGS,10,3141,116
+Bata,Chile,Kolkata,PCS,200,3197,314
+Chocolate Mahseer,Singapore,Bombay,PCS,400,981,814
+Grass Carp,Saudi Arabia,Chennai,KGS,7295,3768,40
+Stinging Catfish,Chile,Kolkata,PAC,1739,307,504
+Fringe-lipped Carp,Canada,Ahmedabad,PAC,3360,4734,622
+Pearlspot,Kuwait,Bombay,PCS,30,2096,873
+Brook Trout,United Kingdom,Cochin,PAC,42,2209,409
+Flower Murrel,Singapore,Kolkata,PCS,60,1717,502
+Bronze Featherback,Saudi Arabia,Ahmedabad,PCS,60,1237,989
+Deccan Mahseer,Chile,Ahmedabad,PAC,120,4654,37
+Tor Mahseer,United Arab Emirates,Kolkata,PCS,60,608,752
+Striped Murrel,Canada,Bombay,KGS,60,993,926
+GIFT Strain,United Arab Emirates,Chennai,PAC,45,323,607
+Gheur,Chile,Bombay,KGS,9,863,106
+Amur Common Carp,Qatar,Cochin,PCS,19146,3123,442
+Flower Murrel,United Kingdom,Cochin,KGS,5680,308,841
+Brook Trout,Vietnam,Cochin,PAC,150,3137,606
+Tor Mahseer,Vietnam,Cochin,PCS,400,1792,961
+Bata,Chile,Chennai,PCS,200,3963,642
+Common Snow Trout,United Arab Emirates,Chennai,PCS,550,30,298
+Greasy Grouper,Canada,Cochin,PAC,710,643,619
+Common Snow Trout,Kuwait,Ahmedabad,KGS,350,4099,757
+Tor Mahseer,Chile,Cochin,KGS,450,2863,662
+Bronze Featherback,Qatar,Cochin,KGS,30,4838,478
+Silver Carp,Singapore,Cochin,KGS,70,4720,890
+Calbasu,Qatar,Chennai,PCS,40,824,948
+Dwarf Murrel,Chile,Kolkata,PAC,10,1887,931
+Striped Catfish,Kuwait,Kolkata,PAC,200,4069,122
+Calbasu,Chile,Cochin,PAC,400,4904,473
+Pengba,Kuwait,Bombay,PAC,7295,4224,326
+Striped Murrel,United Kingdom,Cochin,PAC,1739,3123,499
+Walking Catfish,United Arab Emirates,Bombay,PCS,3360,2403,717
+Nile Tilapia,Hong Kong,Kolkata,PAC,30,4055,826
+Golden Mahseer,Saudi Arabia,Chennai,PAC,42,807,726
+Pool Barb,Canada,Chennai,PCS,60,3847,499
+Calbasu,Canada,Cochin,KGS,60,4937,647
+Common Carp,Canada,Cochin,PAC,120,4994,391
+Deccan Mahseer,Kuwait,Cochin,KGS,60,1618,932
+Pearlspot,Chile,Kolkata,PAC,60,3674,112
+Striped Murrel,Kuwait,Chennai,PCS,45,3696,258
+Silver Hatchet Chela,Hong Kong,Cochin,PAC,9,1971,753
+Chital,Saudi Arabia,Ahmedabad,KGS,19146,765,128
+Grass Carp,Saudi Arabia,Cochin,KGS,5680,4789,729
+Striped Catfish,United Arab Emirates,Bombay,PCS,150,2732,518
+Mozambique Tilapia,Vietnam,Bombay,PCS,400,2155,634
+Chocolate Mahseer,Singapore,Cochin,PCS,200,1349,62
+Freshwater Shark,Singapore,Kolkata,KGS,550,3506,383
+Pool Barb,Saudi Arabia,Chennai,PCS,710,1484,563
+Silver Hatchet Chela,Singapore,Kolkata,KGS,350,3105,57
+Climbing Perch,Chile,Cochin,KGS,450,2835,743
+Mola Carplet,Canada,Kolkata,PAC,30,3066,211
+Brook Trout,Kuwait,Bombay,PAC,70,4783,903
+Grass Carp,Canada,Bombay,KGS,40,2792,54
+Deccan Mahseer,Qatar,Bombay,PAC,10,1323,105
+Orange-spotted Grouper,Hong Kong,Bombay,PAC,200,2625,288
+Climbing Perch,Qatar,Bombay,KGS,400,106,633
+Pearlspot,Chile,Bombay,PAC,7295,4124,731
+Freshwater Shark,Singapore,Ahmedabad,PAC,1739,1185,90
+Common Carp,Vietnam,Bombay,PAC,3360,3466,267
+Catla,Chile,Bombay,KGS,30,1669,638
+Brook Trout,Canada,Kolkata,PAC,42,2009,291
+Spotted Murrel,United Kingdom,Bombay,PCS,60,3008,166
+Dwarf Murrel,Singapore,Ahmedabad,PAC,60,4618,501
+Rainbow Trout,Vietnam,Chennai,PCS,120,273,754
+Fringe-lipped Carp,Canada,Chennai,PCS,60,3598,100
+Striped Catfish,United Arab Emirates,Cochin,KGS,60,497,234
+Pabda Catfish,United Kingdom,Bombay,PCS,45,4756,898
+Striped Catfish,United Kingdom,Ahmedabad,PAC,9,4750,17
+Grass Carp,Singapore,Bombay,PCS,19146,4489,545
+Mountain Trout,Chile,Kolkata,PCS,5680,4279,612
+Asian Seabass,Chile,Ahmedabad,KGS,150,4444,435
+Chital,Saudi Arabia,Cochin,PAC,400,4616,661
+Tiger Bass,Kuwait,Cochin,PCS,200,2515,24
+Common Snow Trout,Chile,Kolkata,PAC,550,4860,667
+Orange-spotted Grouper,Vietnam,Kolkata,PAC,710,248,979
+Catla,Hong Kong,Bombay,PCS,350,91,589
+Bronze Featherback,Qatar,Ahmedabad,PAC,450,2199,366
+Climbing Perch,Qatar,Bombay,KGS,30,2982,907
+Silver Carp,Hong Kong,Chennai,PAC,70,4483,298
+Brown Trout,Vietnam,Bombay,PAC,40,2056,925
+Chital,Kuwait,Cochin,PCS,10,78,403
+Grey Mullet,Chile,Ahmedabad,KGS,200,3039,829
+GIFT Strain,Vietnam,Bombay,KGS,400,1357,327
+Giant River-Catfish,Canada,Ahmedabad,PAC,7295,2090,66
+Mozambique Tilapia,Hong Kong,Cochin,PAC,1739,391,765
+Flower Murrel,Vietnam,Bombay,PCS,3360,1321,21
+Reba,Qatar,Cochin,PCS,30,1855,134
+Fringe-lipped Carp,Chile,Ahmedabad,PCS,42,4889,424
+Climbing Perch,United Arab Emirates,Kolkata,PCS,60,2300,659
+Common Carp,Saudi Arabia,Cochin,PAC,60,2075,923
+Dwarf Murrel,Saudi Arabia,Cochin,KGS,120,2691,259
+Greasy Grouper,Chile,Cochin,KGS,60,3981,235
+Fringe-lipped Carp,United Kingdom,Ahmedabad,KGS,60,2265,912
+Dwarf Murrel,Hong Kong,Cochin,PAC,45,2025,539
+Mola Carplet,United Kingdom,Bombay,KGS,9,3841,467
+Chocolate Mahseer,Qatar,Bombay,PCS,19146,804,871
+Common Carp,Saudi Arabia,Ahmedabad,PAC,5680,2676,269
+Pool Barb,Kuwait,Kolkata,KGS,150,2027,823
+Silver Hatchet Chela,Chile,Bombay,KGS,400,703,939
+Spotted Murrel,Singapore,Cochin,KGS,200,3419,88
+Deccan Mahseer,Hong Kong,Kolkata,KGS,550,1543,202
+Grass Carp,United Kingdom,Cochin,KGS,710,1791,518
+Rainbow Trout,Kuwait,Chennai,PAC,350,574,729
+Gheur,Singapore,Cochin,PAC,450,4449,214
+Rainbow Trout,Chile,Cochin,KGS,30,1831,700
+Stinging Catfish,Vietnam,Ahmedabad,PAC,70,818,755
+Red Tilapia,Kuwait,Ahmedabad,PAC,40,1654,484
+Pool Barb,Hong Kong,Chennai,PCS,10,1435,401
+Giant River-Catfish,Kuwait,Bombay,KGS,200,4743,965
+Golden Mahseer,Chile,Kolkata,KGS,400,1475,714
+Gheur,Hong Kong,Cochin,PAC,7295,1555,605
+Asian Seabass,Qatar,Bombay,PAC,1739,67,838
+Calbasu,United Arab Emirates,Cochin,PAC,3360,4461,313
+Bata,Canada,Ahmedabad,KGS,30,4732,18
+Fringe-lipped Carp,Hong Kong,Chennai,PAC,42,309,145
+Red Tilapia,Hong Kong,Cochin,PAC,60,3237,862
+Tiger Bass,Hong Kong,Cochin,PCS,60,222,660
+Common Snow Trout,Vietnam,Cochin,KGS,120,4239,869
+Asian Seabass,Vietnam,Cochin,PAC,60,1391,87
+Common Carp,Vietnam,Ahmedabad,PAC,60,4455,82
+Grey Mullet,Qatar,Kolkata,PAC,45,919,143
+Goldspot Mullet,Saudi Arabia,Cochin,KGS,9,286,667
+Silver Hatchet Chela,United Kingdom,Ahmedabad,KGS,19146,2557,448
+Striped Catfish,Kuwait,Bombay,PCS,5680,916,266
+Mola Carplet,United Kingdom,Cochin,KGS,150,3361,123
+Tor Mahseer,Kuwait,Bombay,PCS,400,3571,339
+Chital,Hong Kong,Ahmedabad,PCS,200,1230,669
+Red Tilapia,Saudi Arabia,Cochin,PAC,550,3646,740
+Spotted Murrel,Qatar,Bombay,PAC,710,3804,470
+Reba,United Arab Emirates,Chennai,KGS,350,1031,930
+Deccan Mahseer,Singapore,Ahmedabad,KGS,450,1547,363
+Pengba,Singapore,Bombay,PAC,30,4083,893
+Chocolate Mahseer,Saudi Arabia,Kolkata,PAC,70,240,289
+Golden Mahseer,Hong Kong,Bombay,PAC,40,4826,273
+Golden Mahseer,United Kingdom,Cochin,KGS,10,3411,812
+Mrigal,Saudi Arabia,Ahmedabad,PAC,200,4387,312
+Brown Trout,United Kingdom,Chennai,KGS,400,4166,504
+Amur Common Carp,Canada,Kolkata,PCS,7295,1306,325
+Common Snow Trout,United Arab Emirates,Kolkata,PAC,1739,3187,151
+Greasy Grouper,Vietnam,Kolkata,KGS,3360,3797,471
+Mozambique Tilapia,Canada,Kolkata,PCS,30,1794,932
+Walking Catfish,Singapore,Bombay,KGS,42,1181,450
+Pengba,United Kingdom,Ahmedabad,KGS,60,3347,512
+Asian Seabass,Singapore,Cochin,KGS,60,2442,450
+Flower Murrel,Hong Kong,Ahmedabad,PCS,120,270,628
+Pabda Catfish,United Arab Emirates,Cochin,PAC,60,2472,685
+Ticto Barb,Vietnam,Bombay,PCS,60,1987,10
+Dwarf Murrel,Kuwait,Chennai,KGS,45,4603,27
+Grass Carp,Kuwait,Ahmedabad,KGS,9,3494,718
+Rainbow Trout,Canada,Kolkata,PAC,19146,1109,144
+Bronze Featherback,Hong Kong,Cochin,PAC,5680,2120,22
+Silver Carp,Saudi Arabia,Chennai,PAC,150,3649,648
+Climbing Perch,Vietnam,Chennai,PCS,400,3768,133
+Tiger Bass,United Arab Emirates,Ahmedabad,PAC,200,2367,974
+Rohu,Singapore,Ahmedabad,PCS,550,769,795
+Reba,Qatar,Kolkata,PAC,710,2119,734
+Rainbow Trout,Hong Kong,Kolkata,PCS,350,622,785
+Mountain Trout,Vietnam,Cochin,KGS,450,460,140
+Pool Barb,Canada,Ahmedabad,PCS,30,3487,612
+Silver Hatchet Chela,United Kingdom,Kolkata,KGS,70,351,22
+Greasy Grouper,Qatar,Cochin,PCS,40,278,51
+Asian Seabass,Qatar,Ahmedabad,PCS,10,3869,507
+Gheur,United Arab Emirates,Cochin,PCS,200,3490,774
+Deccan Mahseer,Canada,Kolkata,PCS,400,2300,816
+Calbasu,Saudi Arabia,Bombay,KGS,7295,408,198
+Pool Barb,Qatar,Chennai,PAC,1739,4984,505
+Striped Murrel,Vietnam,Cochin,PAC,3360,1994,219
+Chocolate Mahseer,Chile,Cochin,PAC,30,1041,796
+Stinging Catfish,Hong Kong,Kolkata,PAC,42,293,812
+Fringe-lipped Carp,Hong Kong,Chennai,PAC,60,4054,154
+Orange-spotted Grouper,Saudi Arabia,Cochin,KGS,60,4859,216
+GIFT Strain,Kuwait,Chennai,KGS,120,4477,817
+Walking Catfish,Saudi Arabia,Cochin,KGS,60,730,585
+Orange-spotted Grouper,United Arab Emirates,Bombay,PCS,60,2578,590
+Mozambique Tilapia,Qatar,Cochin,PAC,45,1311,621
+Bronze Featherback,Singapore,Cochin,PAC,9,4256,648
+Nile Tilapia,Kuwait,Chennai,KGS,19146,3615,764
+Red Tilapia,Vietnam,Cochin,KGS,5680,1000,561
+Climbing Perch,United Kingdom,Ahmedabad,KGS,150,1424,71
+Mountain Trout,Canada,Chennai,PCS,400,67,620
+Orange-spotted Grouper,Vietnam,Cochin,PAC,200,2928,356
+Pearlspot,Kuwait,Kolkata,PCS,550,2621,391
+Red Tilapia,United Arab Emirates,Cochin,PAC,710,1558,836
+Walking Catfish,Canada,Cochin,KGS,350,3199,731
+Gheur,Chile,Cochin,KGS,450,1081,485
+Dwarf Murrel,Hong Kong,Bombay,PCS,30,1612,291
+Nile Tilapia,Vietnam,Bombay,KGS,70,3696,869
+Mrigal,Kuwait,Chennai,KGS,40,1706,286
+Brook Trout,United Kingdom,Ahmedabad,PCS,10,787,731
+Calbasu,United Arab Emirates,Ahmedabad,KGS,200,4620,106
+Goldspot Mullet,Kuwait,Cochin,PAC,400,1268,955
+Catla,Canada,Kolkata,KGS,7295,344,729
+Dwarf Murrel,Kuwait,Cochin,PAC,1739,4118,384
+Striped Catfish,Singapore,Bombay,PAC,3360,1207,927
+Freshwater Shark,Canada,Chennai,PAC,30,4296,739
+Deccan Mahseer,United Kingdom,Bombay,KGS,42,798,691
+Striped Catfish,Kuwait,Chennai,PAC,60,2444,589
+Mrigal,Singapore,Cochin,PCS,60,930,571
+Rohu,United Arab Emirates,Kolkata,KGS,120,1753,258
+Rainbow Trout,Kuwait,Kolkata,KGS,60,677,20
+Orange-spotted Grouper,Kuwait,Cochin,PAC,60,3867,494
+Stinging Catfish,United Kingdom,Cochin,PAC,45,4930,519
+Brown Trout,Chile,Chennai,PCS,9,3368,390
+Silver Carp,United Kingdom,Cochin,KGS,19146,1222,839
+Spotted Murrel,United Arab Emirates,Chennai,PCS,5680,3823,354
+Pabda Catfish,United Kingdom,Cochin,KGS,150,821,338
+Catla,Chile,Cochin,PAC,400,3556,180
+Brown Trout,Canada,Kolkata,PCS,200,1999,644
+Chocolate Mahseer,Singapore,Kolkata,PCS,550,1142,133
+Tiger Bass,Kuwait,Cochin,PCS,710,4200,24
+Rohu,Qatar,Chennai,KGS,350,1257,48
+Chital,Canada,Kolkata,PCS,450,4747,228
+Golden Mahseer,Hong Kong,Cochin,PCS,30,3195,285
+Fringe-lipped Carp,Qatar,Ahmedabad,PCS,70,4852,649
+Freshwater Shark,Saudi Arabia,Cochin,PCS,40,1393,594
+Bronze Featherback,Singapore,Bombay,PAC,10,3187,874
+Reba,Canada,Cochin,KGS,200,3854,742
+Tiger Bass,United Kingdom,Ahmedabad,PCS,400,1329,732
+Asian Seabass,United Arab Emirates,Chennai,PAC,7295,3901,295
+Bata,United Kingdom,Kolkata,KGS,1739,2419,176
+Pabda Catfish,Qatar,Cochin,PAC,3360,2935,427
+Mola Carplet,Saudi Arabia,Chennai,KGS,30,2065,226
+Walking Catfish,Qatar,Cochin,PCS,42,658,107
+Goldspot Mullet,United Arab Emirates,Cochin,PAC,60,2060,463
+Reba,Vietnam,Cochin,PCS,60,2162,452
+Ticto Barb,Kuwait,Chennai,PAC,120,3013,684
+Chital,Saudi Arabia,Kolkata,KGS,60,720,49
+Spotted Murrel,Singapore,Cochin,KGS,60,4927,972
+Amur Common Carp,Hong Kong,Cochin,PAC,45,2824,828
+Bronze Featherback,United Arab Emirates,Cochin,PAC,9,3335,34
+Mrigal,Chile,Cochin,KGS,19146,1124,794
+Striped Murrel,Qatar,Chennai,KGS,5680,2659,319
+Silver Hatchet Chela,Qatar,Cochin,PCS,150,4516,70
+Mountain Trout,Vietnam,Ahmedabad,PAC,400,859,388
+Orange-spotted Grouper,Canada,Cochin,PAC,200,1923,710
+Mola Carplet,Qatar,Chennai,PCS,550,3143,105
+Flower Murrel,Singapore,Ahmedabad,KGS,710,1443,775
+Orange-spotted Grouper,United Kingdom,Cochin,PCS,350,3349,819
+Asian Seabass,United Arab Emirates,Chennai,PCS,450,611,184
+Pool Barb,Saudi Arabia,Cochin,PCS,30,1296,895
+Calbasu,Canada,Ahmedabad,KGS,70,353,789
+Deccan Mahseer,Qatar,Cochin,PAC,40,3321,736
+Grass Carp,Vietnam,Cochin,KGS,10,2183,332
+Amur Common Carp,Hong Kong,Cochin,PCS,200,2319,233
+Brown Trout,United Kingdom,Ahmedabad,KGS,400,4839,586
+Orange-spotted Grouper,Saudi Arabia,Chennai,PCS,7295,241,733
+Goldspot Mullet,Qatar,Ahmedabad,PAC,1739,3472,798
+Asian Seabass,Vietnam,Cochin,KGS,3360,1244,980
+Rainbow Trout,Canada,Cochin,KGS,30,4860,21
+GIFT Strain,Kuwait,Cochin,PAC,42,2891,88
+Silver Carp,Canada,Ahmedabad,KGS,60,2726,697
+Red Tilapia,Kuwait,Chennai,KGS,60,1733,242
+GIFT Strain,Vietnam,Ahmedabad,KGS,120,2199,756
+Flower Murrel,Qatar,Bombay,KGS,60,824,891
+Chocolate Mahseer,United Arab Emirates,Cochin,PCS,60,887,958
+Mola Carplet,Hong Kong,Cochin,PCS,45,667,144
+Catla,Qatar,Cochin,PAC,9,1627,598
+Nile Tilapia,Hong Kong,Bombay,PCS,19146,3821,848
+Tor Mahseer,Chile,Cochin,KGS,5680,226,41
+Giant River-Catfish,United Arab Emirates,Cochin,KGS,150,4504,850
+Tiger Bass,United Arab Emirates,Bombay,KGS,400,2317,226
+GIFT Strain,Vietnam,Cochin,KGS,200,3677,198
+Goldspot Mullet,United Kingdom,Chennai,PCS,550,1656,795
+Asian Seabass,United Kingdom,Kolkata,PCS,710,3204,303
+Silver Hatchet Chela,Hong Kong,Cochin,PAC,350,4619,41
+Mrigal,Vietnam,Bombay,PAC,450,716,224
+Pabda Catfish,Saudi Arabia,Chennai,PAC,30,2431,115
+Pabda Catfish,United Arab Emirates,Cochin,PCS,70,4810,952
+Stinging Catfish,Saudi Arabia,Chennai,PAC,40,4136,773
+Grass Carp,United Arab Emirates,Cochin,PCS,10,444,541
+Bata,United Arab Emirates,Ahmedabad,KGS,200,1686,922
+Mola Carplet,Saudi Arabia,Chennai,PAC,400,164,164
+Ticto Barb,Canada,Bombay,KGS,7295,4665,708
+Brown Trout,United Kingdom,Ahmedabad,PAC,1739,4048,203
+Pabda Catfish,Vietnam,Cochin,KGS,3360,4983,53
+Mountain Trout,Canada,Ahmedabad,KGS,30,4083,119
+Grey Mullet,Vietnam,Kolkata,KGS,42,4781,780
+Stinging Catfish,Chile,Kolkata,PAC,60,2823,417
+Rohu,Canada,Kolkata,PCS,60,2155,968
+Amur Common Carp,Kuwait,Kolkata,PCS,120,643,819
+Amur Common Carp,Chile,Kolkata,PCS,60,3665,732
+Bata,Saudi Arabia,Chennai,PAC,60,1636,654
+Pool Barb,United Arab Emirates,Kolkata,PCS,45,1850,922
+Pool Barb,Saudi Arabia,Bombay,PAC,9,1689,214
+Pengba,Singapore,Chennai,PAC,19146,3042,738
+Tor Mahseer,United Arab Emirates,Cochin,PCS,5680,4032,297
+Walking Catfish,Canada,Ahmedabad,KGS,150,2510,370
+Gheur,Vietnam,Cochin,KGS,400,524,549
+Silver Carp,Chile,Bombay,PAC,200,882,394
+Stinging Catfish,Kuwait,Kolkata,KGS,550,4049,636
+Bata,Qatar,Cochin,PCS,710,2465,312
+Rohu,Singapore,Ahmedabad,PCS,350,1228,837
+Mountain Trout,United Kingdom,Bombay,PCS,450,2565,702
+Mozambique Tilapia,Hong Kong,Chennai,PAC,30,1603,673
+Dwarf Murrel,Kuwait,Cochin,KGS,70,3784,592
+Silver Carp,Singapore,Chennai,KGS,40,1157,630
+Pool Barb,United Kingdom,Cochin,KGS,10,1193,585
+Red Tilapia,Hong Kong,Chennai,PCS,200,4043,923
+Nile Tilapia,Singapore,Cochin,PCS,400,632,631
+Bronze Featherback,United Kingdom,Cochin,PCS,7295,4992,759
+Tiger Bass,Singapore,Cochin,PCS,1739,1046,958
+Chocolate Mahseer,Kuwait,Bombay,PAC,3360,3094,823
+Tiger Bass,Canada,Chennai,PAC,30,2457,12
+Common Carp,Singapore,Ahmedabad,KGS,42,1229,784
+Mrigal,Kuwait,Cochin,PAC,60,3158,780
+Flower Murrel,Canada,Chennai,PCS,60,1541,281
+Climbing Perch,United Kingdom,Kolkata,KGS,120,3495,501
+Freshwater Shark,Canada,Ahmedabad,PAC,60,3289,581
+Pengba,Qatar,Cochin,PCS,60,704,802
+Reba,Qatar,Cochin,PCS,45,2549,388
+Catla,Chile,Ahmedabad,PCS,9,3108,19
+Mozambique Tilapia,Hong Kong,Chennai,KGS,19146,2786,626
+Red Tilapia,Chile,Kolkata,KGS,5680,2949,856
+Walking Catfish,Saudi Arabia,Chennai,KGS,150,1170,730
+Pengba,Hong Kong,Kolkata,PCS,400,2428,445
+Brook Trout,Kuwait,Bombay,KGS,200,186,256
+Walking Catfish,United Kingdom,Ahmedabad,PAC,550,2792,78
+Silver Carp,Hong Kong,Cochin,PCS,710,776,610
+Common Snow Trout,Saudi Arabia,Ahmedabad,KGS,350,1223,137
+Red Tilapia,Vietnam,Bombay,KGS,450,1562,985
+Gheur,United Arab Emirates,Bombay,KGS,30,2219,808
+Silver Carp,Chile,Cochin,PCS,70,694,853
+Silver Hatchet Chela,Singapore,Bombay,KGS,40,4013,560
+Giant River-Catfish,United Arab Emirates,Ahmedabad,KGS,10,43,736
+Striped Murrel,United Arab Emirates,Ahmedabad,PCS,200,1103,965
+Grass Carp,Singapore,Cochin,PCS,400,762,13
+Greasy Grouper,United Arab Emirates,Cochin,KGS,7295,107,313
+Rainbow Trout,Kuwait,Chennai,KGS,1739,1712,44
+Mola Carplet,Chile,Ahmedabad,KGS,3360,2364,948
+Golden Mahseer,Kuwait,Chennai,PAC,30,4116,222
+Chocolate Mahseer,Hong Kong,Cochin,PCS,42,983,375
+Mountain Trout,United Arab Emirates,Cochin,PAC,60,4611,974
+Tor Mahseer,Hong Kong,Bombay,PCS,60,4262,49
+Mozambique Tilapia,Canada,Kolkata,PAC,120,1784,498
+Silver Hatchet Chela,Chile,Cochin,PCS,60,3102,824
+Freshwater Shark,Chile,Bombay,PCS,60,3980,83
+Pabda Catfish,Chile,Ahmedabad,KGS,45,1656,58
+Reba,United Kingdom,Cochin,PCS,9,2291,70
+Pengba,Saudi Arabia,Kolkata,PCS,19146,4471,905
+Ticto Barb,Qatar,Cochin,PAC,5680,404,582
+GIFT Strain,United Kingdom,Bombay,KGS,150,1947,859
+Goldspot Mullet,Vietnam,Ahmedabad,PAC,400,377,100
+Golden Mahseer,United Arab Emirates,Chennai,PAC,200,3342,599
+Brown Trout,Chile,Cochin,PCS,550,2958,177
+Pearlspot,Chile,Cochin,PAC,710,3943,730
+Fringe-lipped Carp,Saudi Arabia,Chennai,PAC,350,3454,145
+Pengba,Chile,Ahmedabad,PAC,450,2492,365
+Stinging Catfish,United Arab Emirates,Cochin,KGS,30,2885,101
+Catla,Vietnam,Cochin,KGS,70,3857,417
+Tiger Bass,Qatar,Bombay,KGS,40,2466,495
+Common Snow Trout,Hong Kong,Cochin,PAC,10,368,25
+Giant River-Catfish,United Kingdom,Kolkata,PCS,200,3813,989
+Catla,United Kingdom,Cochin,KGS,400,3999,811
+Fringe-lipped Carp,Canada,Bombay,PCS,7295,2927,48
+Grey Mullet,Hong Kong,Cochin,PCS,1739,3014,634
+Goldspot Mullet,Singapore,Kolkata,KGS,3360,2559,676
+Common Carp,Chile,Ahmedabad,PAC,30,1191,433
+Rohu,United Arab Emirates,Ahmedabad,PAC,42,3663,406
+Greasy Grouper,Chile,Chennai,KGS,60,3418,426
+Giant River-Catfish,United Kingdom,Chennai,PAC,60,2076,133
+Amur Common Carp,Singapore,Bombay,PCS,120,2874,749

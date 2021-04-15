@@ -1,0 +1,445 @@
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+
+<link rel="stylesheet" href="/static/style.css" type="text/css">
+<style>
+    select {
+        width: 200px;
+        height: 30px;
+        margin: 10px;
+    }
+    select:focus {
+        min-width: 200px;
+        width: auto;
+    }
+
+</style>
+<img src="/static/11.png" width="1250" height="200">
+</head>
+<script language="javascript">
+function check(form)
+{
+	if(form.datasetfile.value == "")
+	{
+		alert("Error Select DataSet")
+		return false;
+	}
+	else
+	{
+			return true;
+	}
+
+}
+
+</script>
+
+
+
+
+
+
+
+
+
+
+{%if message%}
+   <form action="/main" method="POST">
+
+   <table width="100%" bgcolor="FFFFFF" align="center" style="border: 1px solid red">
+   <tbody style="display: block; border: 1px solid green; height: 360px; overflow-y: scroll">
+
+   <tr>
+   <td colspan=5><center><font size=6><b>Fisheries data Analysis</b></font></center></td>
+
+   </tr>
+
+   <tr>
+   <td>
+
+   </td>
+   <td height="100">Select Dataset:</td>
+   <td height="100">
+
+   <input type="file" name="datasetfile">
+   </td>
+
+   <td><center><input type="submit" onclick="return check(this.form)" value="Submit" formaction="/process"></center></td>
+
+   </tr>
+
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   </tr>
+
+   <tr>
+
+
+
+   </tr>
+   </tbody>
+   </table>
+
+
+	</form>
+	<img src="static/results/Correlation Matrix.png" width="1200" height="600">
+
+	<img src="static/results/Data Histograms.png" width="1200" height="600">
+	<img src="static/results/Number of Records Species.png" width="1200" height="600">
+	<img src="static/results/Number of Records Destination.png" width="1200" height="600">
+	<img src="static/results/Number of Records Port_of_Loading.png" width="1200" height="600">
+
+
+	<img src="static/results/Total Species Quantity.png" width="1200" height="600">
+	<img src="static/results/Pie-Species Quantity.png" width="1200" height="600">
+
+	<img src="static/results/Total Destination Quantity.png" width="1200" height="600">
+	<img src="static/results/Pie-Destination Quantity.png" width="1200" height="600">
+	<img src="static/results/Total Unit Quantity.png" width="1200" height="600">
+	<img src="static/results/Pie-Unit Quantity.png" width="1200" height="600">
+	<img src="static/results/Total Port_of_Loading Quantity.png" width="1200" height="600">
+
+	<img src="static/results/Pie-Port_of_Loading Quantity.png" width="1200" height="600">
+	<img src="static/results/Total Species Value(INR).png" width="1200" height="600">
+	<img src="static/results/Pie-Species Value(INR).png" width="1200" height="600">
+	<img src="static/results/Total Destination Value(INR).png" width="1200" height="600">
+	<img src="static/results/Pie-Destination Value(INR).png" width="1200" height="600">
+	<img src="static/results/Total Unit Value(INR).png" width="1200" height="600">
+	<img src="static/results/Pie-Unit Value(INR).png" width="1200" height="600">
+	<img src="static/results/Total Port_of_Loading Value(INR).png" width="1200" height="600">
+	<img src="static/results/Pie-Port_of_Loading Value(INR).png" width="1200" height="600">
+
+	{% else %}
+
+	   <form action="/main" method="POST">
+
+	   <table width="100%" bgcolor="FFFFFF" align="center" style="border: 1px solid red">
+	   <tbody style="display: block; border: 1px solid green; height: 360px; overflow-y: scroll">
+
+	   <tr>
+	   <td colspan=5><center><font size=6><b>Fisheries Data Analysis</b></font></center></td>
+
+	   </tr>
+
+	   <tr>
+	   <td>
+
+	   </td>
+	   <td height="100">Select Dataset:</td>
+	   <td height="100">
+
+	   <input type="file" name="datasetfile">
+	   </td>
+
+	   <td><center><input type="submit" onclick="return check(this.form)" value="Submit" formaction="/process"></center></td>
+
+	   </tr>
+
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+	   <tr>
+	   </tr>
+
+	   <tr>
+
+
+
+
+
+	   </tr>
+	   </tbody>
+	   </table>
+
+
+	</form>
+{%endif%}
+
+</br>
+</br>
+</br>
+</br>
+</body>
+</html>
